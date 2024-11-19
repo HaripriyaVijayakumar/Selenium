@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-10T20:49:17 EST" name="TestSuite1" finished-at="2024-11-10T20:49:17 EST" duration-ms="38">
+    <groups>
+    </groups>
+    <test started-at="2024-11-10T20:49:17 EST" name="Sanity" finished-at="2024-11-10T20:49:17 EST" duration-ms="38">
+      <class name="TestSuite1.Module1">
+        <test-method is-config="true" signature="Beforesuite()[pri:0, instance:TestSuite1.Module1@7f0eb4b4]" started-at="2024-11-10T20:49:17 EST" name="Beforesuite" finished-at="2024-11-10T20:49:17 EST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforesuite -->
+        <test-method is-config="true" signature="Beforetest()[pri:0, instance:TestSuite1.Module1@7f0eb4b4]" started-at="2024-11-10T20:49:17 EST" name="Beforetest" finished-at="2024-11-10T20:49:17 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforetest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:TestSuite1.Module1@7f0eb4b4]" started-at="2024-11-10T20:49:17 EST" name="BeforeClass" finished-at="2024-11-10T20:49:17 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method signature="test001()[pri:0, instance:TestSuite1.Module1@7f0eb4b4]" started-at="2024-11-10T20:49:17 EST" name="test001" finished-at="2024-11-10T20:49:17 EST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestSuite1.Module1@7f0eb4b4]" started-at="2024-11-10T20:49:17 EST" name="BeforeMethod" finished-at="2024-11-10T20:49:17 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestSuite1.Module1@7f0eb4b4]" started-at="2024-11-10T20:49:17 EST" name="AfterMethod" finished-at="2024-11-10T20:49:17 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:TestSuite1.Module1@7f0eb4b4]" started-at="2024-11-10T20:49:17 EST" name="AfterClass" finished-at="2024-11-10T20:49:17 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="Aftertest()[pri:0, instance:TestSuite1.Module1@7f0eb4b4]" started-at="2024-11-10T20:49:17 EST" name="Aftertest" finished-at="2024-11-10T20:49:17 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftertest -->
+        <test-method is-config="true" signature="Aftersuite()[pri:0, instance:TestSuite1.Module1@7f0eb4b4]" started-at="2024-11-10T20:49:17 EST" name="Aftersuite" finished-at="2024-11-10T20:49:17 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftersuite -->
+      </class> <!-- TestSuite1.Module1 -->
+      <class name="TestSuite1.Module2">
+        <test-method signature="test001()[pri:0, instance:TestSuite1.Module2@9597028]" started-at="2024-11-10T20:49:17 EST" name="test001" finished-at="2024-11-10T20:49:17 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+        <test-method signature="test002()[pri:0, instance:TestSuite1.Module2@9597028]" started-at="2024-11-10T20:49:17 EST" name="test002" finished-at="2024-11-10T20:49:17 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test002 -->
+      </class> <!-- TestSuite1.Module2 -->
+    </test> <!-- Sanity -->
+  </suite> <!-- TestSuite1 -->
+</testng-results>

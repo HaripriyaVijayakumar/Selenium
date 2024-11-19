@@ -1,0 +1,8 @@
+[INFO ]2024-11-1311:30:15.542[main]dsutilities.LoggerLoad1)-Method before LOGGER STATEMENT
+[ERROR]2024-11-1311:32:27.060[main]dsutilities.LoggerLoad1)-Method before LOGGER STATEMENT
+[ERROR]2024-11-1311:35:30.585[main]dsutilities.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2024-11-1311:35:30.587[main]dsutilities.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2024-11-1311:35:30.587[main]dsutilities.LoggerLoad1)-Warning - Testing
+[ERROR]2024-11-1311:37:33.029[main]dsutilities.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2024-11-1311:37:33.032[main]dsutilities.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2024-11-1311:37:33.032[main]dsutilities.LoggerLoad1)-Warning - Testing
